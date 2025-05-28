@@ -1,0 +1,716 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.work:work-runtime-ktx:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\3ae85256409d8832c2bc1c09517776dc\transformed\work-runtime-ktx-2.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\a5522aa43b1a5fec179f1eb2f25f066b\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1c7b68fd353a6c91edac7e779860f5ec\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.compose.material3:material3:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\662b2064b36755cd6844d8ec3c707843\transformed\jetified-material3-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\2a2b5a0a83ee9904d8d07e84b77a19e2\transformed\jetified-material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\fe95ad0f5bb620ae6923dd0f4a3b3b8e\transformed\jetified-material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1d227eb7e659733bba3e4a25b2b68ad1\transformed\jetified-material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c2481f03da73e85f60f100859793cd8d\transformed\jetified-animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\3e21041b78a09c3d6cfdcd1d3ec1bca0\transformed\jetified-animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c3570802b1dfe0f5667fbcdba523589e\transformed\jetified-foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\92254e378db659511562c42160147110\transformed\jetified-foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\67b4e8d121790cd05f6d11ba8768a3bc\transformed\jetified-ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\010b120aa7a7017baff14b60c9c106cb\transformed\jetified-ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b6564e70a844337da7c162d4e80326a6\transformed\jetified-ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\dceddbf6ef749018b67373700d1565ae\transformed\jetified-ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\9b5a4f062458c55896d912c68374c584\transformed\jetified-ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\70b4feab8502f69b841437e0f93d8056\transformed\jetified-ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\afab580b5ec196dc271c656a8629c669\transformed\jetified-ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c1f87a12123097b854b77d7b83156dbc\transformed\jetified-ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ab1fb434ece63bacd8a8818572e6e02b\transformed\jetified-ui-test-manifest-1.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\18508bd37837d928c0c0863e7219b0b1\transformed\jetified-ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\38b330fe76cdd7f66bed3af9775ed6df\transformed\jetified-activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.8.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\2a9063576c5e0b5546c5a68864a011dc\transformed\jetified-activity-compose-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\a242cfb35e4345e2c083032b2b062040\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\7e809add7c259ee4e4262dbf33b5fcd4\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\9f9984554085dbc15e66910d2b52b06f\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\31062de568c7f004e950a43293906bd8\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8756278874b0100ac47da213beca92e5\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\58dca7006a5871ba9e4181fb23858e43\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8ee51a33be869799a7cbff33df9b9cdd\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\295ec8b13b21e8a04d10b49bd01d3966\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\54edd41cb604a5aeee04b5ad30216bc3\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\74db08190f770b2765c878f1800fdf60\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\31ed1a30f6618d2d4018727cfecd9730\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\2fd73ad87dfc633c8603586f4afc42fc\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b2b6850ace8fb2af7a84fa83d3c390e8\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\6e514ed8f9c95000c4e0aa2a07b23c5a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c6532d0e0e88f164980e3c605a722397\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\a4f170fc5610f64b831958cd1cc6866a\transformed\jetified-lifecycle-service-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\3584568b257449c061e606fef16cdb2c\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\17de2ab89853b64bd043a538d9b5fee7\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ef4dc68904e9a283ed27cdc05ecc2fcb\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\d136d88ff23a8bb183d0b4a28a5351f8\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\289371cf0c91c4686caf82b8c0a5a8fa\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\cdd8c2bd2f0f6a485ae0c4afb1e59338\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\97fc0e3b8631f7356ecb233af4c2c195\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\7560584173674037b38a6b39874f31b0\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\88c9600b1440b546803af77c91ec0ead\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4d1f852aba2d638ac5ca6dd9a9be7a71\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e61a6665a4a49837da9852a418d9ce78\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\303c75197580f2e0edaa67c8dd98d65d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c17b805677b2f117eb0c95481814a5ca\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\aeaa2462ad23899f353cf010458d2e63\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\3e0bd48d7a460649cd164ee34a4373ff\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e82937b0b1d26b86121cb5c7533d48ea\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\69e785845cac8a59ba560ab81e9f7b91\transformed\jetified-lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\34d015239959ba77beafebbfab66b67d\transformed\jetified-runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ab3cc7909e196d5706dd3c8ec7c909d5\transformed\jetified-runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\bc884a3485db7425dc856d0b2cdb605e\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\28b5c279da6d208bfc7b24e11f4b6ac9\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\62d32a8f310e49d9d1c9f4f4573aaaf6\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\eb3bd93c3b6308f6c05be760982ec480\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\db43649e9b0edb61d0b9a8b8fdbda85e\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\290b3b21726157efe5ab4704a07f0b8c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ad45d2a5b1a9a9d759424c6c044eca76\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8fd33293344bdea61da52fd96e5303f5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\307c74de11bacd2601bf08d8819cd4a9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\35f8d82c95cf1e70e54baa3d711b1083\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ebc9d7f6286878534508cd004b750e50\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\a891a87dd662d8711345641a557afc20\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\eefb40447ffe224f605acc56102f716f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:15:5-108
+	android:maxSdkVersion
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:15:79-105
+	android:name
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:15:22-78
+application
+ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:17:5-42:19
+INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:17:5-42:19
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1c7b68fd353a6c91edac7e779860f5ec\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1c7b68fd353a6c91edac7e779860f5ec\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ab1fb434ece63bacd8a8818572e6e02b\transformed\jetified-ui-test-manifest-1.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ab1fb434ece63bacd8a8818572e6e02b\transformed\jetified-ui-test-manifest-1.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\18508bd37837d928c0c0863e7219b0b1\transformed\jetified-ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\18508bd37837d928c0c0863e7219b0b1\transformed\jetified-ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8756278874b0100ac47da213beca92e5\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8756278874b0100ac47da213beca92e5\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\58dca7006a5871ba9e4181fb23858e43\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\58dca7006a5871ba9e4181fb23858e43\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8ee51a33be869799a7cbff33df9b9cdd\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8ee51a33be869799a7cbff33df9b9cdd\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\295ec8b13b21e8a04d10b49bd01d3966\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\295ec8b13b21e8a04d10b49bd01d3966\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b2b6850ace8fb2af7a84fa83d3c390e8\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b2b6850ace8fb2af7a84fa83d3c390e8\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\6e514ed8f9c95000c4e0aa2a07b23c5a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\6e514ed8f9c95000c4e0aa2a07b23c5a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ad45d2a5b1a9a9d759424c6c044eca76\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ad45d2a5b1a9a9d759424c6c044eca76\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8fd33293344bdea61da52fd96e5303f5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8fd33293344bdea61da52fd96e5303f5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:22:9-41
+	android:fullBackupContent
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:20:9-54
+	android:roundIcon
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:23:9-54
+	tools:targetApi
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:26:9-29
+	android:icon
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:25:9-56
+	android:dataExtractionRules
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:19:9-65
+activity#com.example.personalfinanceapp.MainActivity
+ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:30:13-45
+	android:exported
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:31:13-60
+	android:name
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.work:work-runtime-ktx:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\3ae85256409d8832c2bc1c09517776dc\transformed\work-runtime-ktx-2.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\3ae85256409d8832c2bc1c09517776dc\transformed\work-runtime-ktx-2.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\a5522aa43b1a5fec179f1eb2f25f066b\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\a5522aa43b1a5fec179f1eb2f25f066b\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1c7b68fd353a6c91edac7e779860f5ec\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1c7b68fd353a6c91edac7e779860f5ec\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\662b2064b36755cd6844d8ec3c707843\transformed\jetified-material3-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\662b2064b36755cd6844d8ec3c707843\transformed\jetified-material3-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\2a2b5a0a83ee9904d8d07e84b77a19e2\transformed\jetified-material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\2a2b5a0a83ee9904d8d07e84b77a19e2\transformed\jetified-material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\fe95ad0f5bb620ae6923dd0f4a3b3b8e\transformed\jetified-material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\fe95ad0f5bb620ae6923dd0f4a3b3b8e\transformed\jetified-material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1d227eb7e659733bba3e4a25b2b68ad1\transformed\jetified-material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1d227eb7e659733bba3e4a25b2b68ad1\transformed\jetified-material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c2481f03da73e85f60f100859793cd8d\transformed\jetified-animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c2481f03da73e85f60f100859793cd8d\transformed\jetified-animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\3e21041b78a09c3d6cfdcd1d3ec1bca0\transformed\jetified-animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\3e21041b78a09c3d6cfdcd1d3ec1bca0\transformed\jetified-animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c3570802b1dfe0f5667fbcdba523589e\transformed\jetified-foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c3570802b1dfe0f5667fbcdba523589e\transformed\jetified-foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\92254e378db659511562c42160147110\transformed\jetified-foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\92254e378db659511562c42160147110\transformed\jetified-foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\67b4e8d121790cd05f6d11ba8768a3bc\transformed\jetified-ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\67b4e8d121790cd05f6d11ba8768a3bc\transformed\jetified-ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\010b120aa7a7017baff14b60c9c106cb\transformed\jetified-ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\010b120aa7a7017baff14b60c9c106cb\transformed\jetified-ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b6564e70a844337da7c162d4e80326a6\transformed\jetified-ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b6564e70a844337da7c162d4e80326a6\transformed\jetified-ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\dceddbf6ef749018b67373700d1565ae\transformed\jetified-ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\dceddbf6ef749018b67373700d1565ae\transformed\jetified-ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\9b5a4f062458c55896d912c68374c584\transformed\jetified-ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\9b5a4f062458c55896d912c68374c584\transformed\jetified-ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\70b4feab8502f69b841437e0f93d8056\transformed\jetified-ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\70b4feab8502f69b841437e0f93d8056\transformed\jetified-ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\afab580b5ec196dc271c656a8629c669\transformed\jetified-ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\afab580b5ec196dc271c656a8629c669\transformed\jetified-ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c1f87a12123097b854b77d7b83156dbc\transformed\jetified-ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c1f87a12123097b854b77d7b83156dbc\transformed\jetified-ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ab1fb434ece63bacd8a8818572e6e02b\transformed\jetified-ui-test-manifest-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ab1fb434ece63bacd8a8818572e6e02b\transformed\jetified-ui-test-manifest-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\18508bd37837d928c0c0863e7219b0b1\transformed\jetified-ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\18508bd37837d928c0c0863e7219b0b1\transformed\jetified-ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\38b330fe76cdd7f66bed3af9775ed6df\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\38b330fe76cdd7f66bed3af9775ed6df\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\2a9063576c5e0b5546c5a68864a011dc\transformed\jetified-activity-compose-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\2a9063576c5e0b5546c5a68864a011dc\transformed\jetified-activity-compose-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\a242cfb35e4345e2c083032b2b062040\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\a242cfb35e4345e2c083032b2b062040\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\7e809add7c259ee4e4262dbf33b5fcd4\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\7e809add7c259ee4e4262dbf33b5fcd4\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\9f9984554085dbc15e66910d2b52b06f\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\9f9984554085dbc15e66910d2b52b06f\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\31062de568c7f004e950a43293906bd8\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\31062de568c7f004e950a43293906bd8\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8756278874b0100ac47da213beca92e5\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8756278874b0100ac47da213beca92e5\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\58dca7006a5871ba9e4181fb23858e43\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\58dca7006a5871ba9e4181fb23858e43\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8ee51a33be869799a7cbff33df9b9cdd\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8ee51a33be869799a7cbff33df9b9cdd\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\295ec8b13b21e8a04d10b49bd01d3966\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\295ec8b13b21e8a04d10b49bd01d3966\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\54edd41cb604a5aeee04b5ad30216bc3\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\54edd41cb604a5aeee04b5ad30216bc3\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\74db08190f770b2765c878f1800fdf60\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\74db08190f770b2765c878f1800fdf60\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\31ed1a30f6618d2d4018727cfecd9730\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\31ed1a30f6618d2d4018727cfecd9730\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\2fd73ad87dfc633c8603586f4afc42fc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\2fd73ad87dfc633c8603586f4afc42fc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b2b6850ace8fb2af7a84fa83d3c390e8\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b2b6850ace8fb2af7a84fa83d3c390e8\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\6e514ed8f9c95000c4e0aa2a07b23c5a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\6e514ed8f9c95000c4e0aa2a07b23c5a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c6532d0e0e88f164980e3c605a722397\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c6532d0e0e88f164980e3c605a722397\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\a4f170fc5610f64b831958cd1cc6866a\transformed\jetified-lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\a4f170fc5610f64b831958cd1cc6866a\transformed\jetified-lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\3584568b257449c061e606fef16cdb2c\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\3584568b257449c061e606fef16cdb2c\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\17de2ab89853b64bd043a538d9b5fee7\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\17de2ab89853b64bd043a538d9b5fee7\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ef4dc68904e9a283ed27cdc05ecc2fcb\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ef4dc68904e9a283ed27cdc05ecc2fcb\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\d136d88ff23a8bb183d0b4a28a5351f8\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\d136d88ff23a8bb183d0b4a28a5351f8\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\289371cf0c91c4686caf82b8c0a5a8fa\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\289371cf0c91c4686caf82b8c0a5a8fa\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\cdd8c2bd2f0f6a485ae0c4afb1e59338\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\cdd8c2bd2f0f6a485ae0c4afb1e59338\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\97fc0e3b8631f7356ecb233af4c2c195\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\97fc0e3b8631f7356ecb233af4c2c195\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\7560584173674037b38a6b39874f31b0\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\7560584173674037b38a6b39874f31b0\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\88c9600b1440b546803af77c91ec0ead\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\88c9600b1440b546803af77c91ec0ead\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4d1f852aba2d638ac5ca6dd9a9be7a71\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4d1f852aba2d638ac5ca6dd9a9be7a71\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e61a6665a4a49837da9852a418d9ce78\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e61a6665a4a49837da9852a418d9ce78\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\303c75197580f2e0edaa67c8dd98d65d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\303c75197580f2e0edaa67c8dd98d65d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c17b805677b2f117eb0c95481814a5ca\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\c17b805677b2f117eb0c95481814a5ca\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\aeaa2462ad23899f353cf010458d2e63\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\aeaa2462ad23899f353cf010458d2e63\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\3e0bd48d7a460649cd164ee34a4373ff\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\3e0bd48d7a460649cd164ee34a4373ff\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e82937b0b1d26b86121cb5c7533d48ea\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e82937b0b1d26b86121cb5c7533d48ea\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\69e785845cac8a59ba560ab81e9f7b91\transformed\jetified-lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\69e785845cac8a59ba560ab81e9f7b91\transformed\jetified-lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\34d015239959ba77beafebbfab66b67d\transformed\jetified-runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\34d015239959ba77beafebbfab66b67d\transformed\jetified-runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ab3cc7909e196d5706dd3c8ec7c909d5\transformed\jetified-runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ab3cc7909e196d5706dd3c8ec7c909d5\transformed\jetified-runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\bc884a3485db7425dc856d0b2cdb605e\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\bc884a3485db7425dc856d0b2cdb605e\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\28b5c279da6d208bfc7b24e11f4b6ac9\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\28b5c279da6d208bfc7b24e11f4b6ac9\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\62d32a8f310e49d9d1c9f4f4573aaaf6\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\62d32a8f310e49d9d1c9f4f4573aaaf6\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\eb3bd93c3b6308f6c05be760982ec480\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\eb3bd93c3b6308f6c05be760982ec480\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\db43649e9b0edb61d0b9a8b8fdbda85e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\db43649e9b0edb61d0b9a8b8fdbda85e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\290b3b21726157efe5ab4704a07f0b8c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\290b3b21726157efe5ab4704a07f0b8c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ad45d2a5b1a9a9d759424c6c044eca76\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ad45d2a5b1a9a9d759424c6c044eca76\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8fd33293344bdea61da52fd96e5303f5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8fd33293344bdea61da52fd96e5303f5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\307c74de11bacd2601bf08d8819cd4a9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\307c74de11bacd2601bf08d8819cd4a9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\35f8d82c95cf1e70e54baa3d711b1083\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\35f8d82c95cf1e70e54baa3d711b1083\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ebc9d7f6286878534508cd004b750e50\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ebc9d7f6286878534508cd004b750e50\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\a891a87dd662d8711345641a557afc20\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\a891a87dd662d8711345641a557afc20\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\eefb40447ffe224f605acc56102f716f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\eefb40447ffe224f605acc56102f716f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\registro\desarrollos\PersonalFinanceApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:26:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b2b6850ace8fb2af7a84fa83d3c390e8\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b2b6850ace8fb2af7a84fa83d3c390e8\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\6e514ed8f9c95000c4e0aa2a07b23c5a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\6e514ed8f9c95000c4e0aa2a07b23c5a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8fd33293344bdea61da52fd96e5303f5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\8fd33293344bdea61da52fd96e5303f5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:33:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:30:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:34:13-36:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:36:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:35:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\4b951048821233477fa5b5c6194e6f0a\transformed\work-runtime-2.9.0\AndroidManifest.xml:140:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1c7b68fd353a6c91edac7e779860f5ec\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1c7b68fd353a6c91edac7e779860f5ec\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1c7b68fd353a6c91edac7e779860f5ec\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1c7b68fd353a6c91edac7e779860f5ec\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\1c7b68fd353a6c91edac7e779860f5ec\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ab1fb434ece63bacd8a8818572e6e02b\transformed\jetified-ui-test-manifest-1.5.0\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ab1fb434ece63bacd8a8818572e6e02b\transformed\jetified-ui-test-manifest-1.5.0\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\ab1fb434ece63bacd8a8818572e6e02b\transformed\jetified-ui-test-manifest-1.5.0\AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\18508bd37837d928c0c0863e7219b0b1\transformed\jetified-ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\18508bd37837d928c0c0863e7219b0b1\transformed\jetified-ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\18508bd37837d928c0c0863e7219b0b1\transformed\jetified-ui-tooling-release\AndroidManifest.xml:24:13-71
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e80808415b17e3f84451cf8b9aad2d5a\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\58dca7006a5871ba9e4181fb23858e43\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\58dca7006a5871ba9e4181fb23858e43\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\58dca7006a5871ba9e4181fb23858e43\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\58dca7006a5871ba9e4181fb23858e43\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\295ec8b13b21e8a04d10b49bd01d3966\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\295ec8b13b21e8a04d10b49bd01d3966\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\295ec8b13b21e8a04d10b49bd01d3966\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b2b6850ace8fb2af7a84fa83d3c390e8\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b2b6850ace8fb2af7a84fa83d3c390e8\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\b2b6850ace8fb2af7a84fa83d3c390e8\transformed\jetified-emoji2-1.4.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\6e514ed8f9c95000c4e0aa2a07b23c5a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\6e514ed8f9c95000c4e0aa2a07b23c5a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\6e514ed8f9c95000c4e0aa2a07b23c5a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.personalfinanceapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.personalfinanceapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\e4da59d65e884a3769dccf1c09c7c808\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\rcarcamoc\.gradle\caches\8.14.1\transforms\14dc980513c60b6979dc3ef41a2c12d0\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
