@@ -1,3 +1,12 @@
 R_DEF: Internal format may change without notice
 local
+color colorPrimary
+color colorPrimaryVariant
+color colorSecondary
+color purple_500
+color teal_200
+mipmap ic_launcher
 string app_name
+style Theme.PersonalFinanceApp
+xml backup_rules
+xml data_extraction_rules
