@@ -1,14 +1,14 @@
 [
     {
-        "merged": "com.example.personalfinanceapp-merged_res-56:/xml_backup_rules.xml.flat",
-        "source": "com.example.personalfinanceapp-main-58:/xml/backup_rules.xml"
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.example.personalfinanceapp-merged_res-56:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.personalfinanceapp-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.personalfinanceapp-merged_res-42:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.personalfinanceapp-main-44:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.personalfinanceapp-merged_res-56:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.personalfinanceapp-main-58:/xml/data_extraction_rules.xml"
+        "merged": "com.example.personalfinanceapp-merged_res-42:/xml_backup_rules.xml.flat",
+        "source": "com.example.personalfinanceapp-main-44:/xml/backup_rules.xml"
     }
 ]
