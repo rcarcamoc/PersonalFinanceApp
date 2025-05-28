@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Permisos de Internet necesarios para APIs de Google y otras conexiones de red -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- Permisos para Google Sign-In y Gmail API -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <!-- Permisos para Google Drive API (leer y escribir archivos) -->
+    <!-- Se solicitarán en tiempo de ejecución si es necesario para Android 6.0+ -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="28" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PersonalFinanceApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".MainActivity" 
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.PersonalFinanceApp">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Configuración para Google Sign-In y otras APIs de Google -->
+        <!-- Reemplaza con tu ID de cliente de OAuth 2.0 si es necesario -->
+        <!-- <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" /> -->
+
+    </application>
+
+</manifest>
+
