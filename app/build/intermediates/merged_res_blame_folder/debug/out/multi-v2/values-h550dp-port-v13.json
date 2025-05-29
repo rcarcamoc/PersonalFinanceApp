@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.personalfinanceapp-mergeDebugResources-40:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "outputFile": "com.aranthalion.PersonalFinanceAPP.app-mergeDebugResources-41:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/home/rick/.gradle/caches/8.14.1/transforms/45e69c44bd7c5c4020fa4c9db38d7e46/transformed/material-1.10.0/res/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+                    "source": "C:\\Users\\rcarcamoc\\.gradle\\caches\\8.14.1\\transforms\\8c3d86cae69069d11710a44a77a6992e\\transformed\\material-1.10.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

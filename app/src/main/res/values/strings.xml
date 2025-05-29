@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PersonalBudget</string>
+    <string name="google_client_id">845155987154-etiv4606nblue1dr4dbng5hdfilbnkr6.apps.googleusercontent.com</string>
+
 </resources>

@@ -15,6 +15,14 @@
     <color name="md_theme_light_secondaryContainer">#E8DEF8</color>
     <color name="md_theme_light_surface">#FFFFFF</color>
     <string name="app_name">PersonalBudget</string>
+    <string name="default_web_client_id" translatable="false">845155987154-fkkhmeo5r2lc592qg8hoig7i426jnbgb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">845155987154</string>
+    <string name="google_api_key" translatable="false">AIzaSyAKFGjipHoxwHr2J6PQCYQShH5J8aw8SDk</string>
+    <string name="google_app_id" translatable="false">1:845155987154:android:15e0978bbe139d46e7870b</string>
+    <string name="google_client_id">845155987154-etiv4606nblue1dr4dbng5hdfilbnkr6.apps.googleusercontent.com</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAKFGjipHoxwHr2J6PQCYQShH5J8aw8SDk</string>
+    <string name="google_storage_bucket" translatable="false">financeapp-38601.firebasestorage.app</string>
+    <string name="project_id" translatable="false">financeapp-38601</string>
     <style name="Theme.PersonalFinanceApp" parent="Theme.Material3.DayNight.NoActionBar">
         
         <item name="colorPrimary">@color/md_theme_light_primary</item>

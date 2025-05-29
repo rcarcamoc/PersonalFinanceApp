@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.personalfinanceapp-mergeDebugResources-40:/values-eu/values-eu.xml",
+            "outputFile": "com.aranthalion.PersonalFinanceAPP.app-mergeDebugResources-41:/values-eu/values-eu.xml",
             "map": [
                 {
-                    "source": "/home/rick/.gradle/caches/8.14.1/transforms/58dca7006a5871ba9e4181fb23858e43/transformed/jetified-play-services-base-18.0.1/res/values-eu/values.xml",
+                    "source": "C:\\Users\\rcarcamoc\\.gradle\\caches\\8.14.1\\transforms\\21b394bb1d012ea753c32f87687f6b64\\transformed\\jetified-play-services-base-18.0.1\\res\\values-eu\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/rick/.gradle/caches/8.14.1/transforms/337fd1d1335673d04e9c0ba221cce8a0/transformed/appcompat-1.6.1/res/values-eu/values-eu.xml",
+                    "source": "C:\\Users\\rcarcamoc\\.gradle\\caches\\8.14.1\\transforms\\625908f6c1cbe666d90ca8cec97a2417\\transformed\\appcompat-1.6.1\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/home/rick/.gradle/caches/8.14.1/transforms/45e69c44bd7c5c4020fa4c9db38d7e46/transformed/material-1.10.0/res/values-eu/values-eu.xml",
+                    "source": "C:\\Users\\rcarcamoc\\.gradle\\caches\\8.14.1\\transforms\\935c1e4066b1f207a296a8820c0f0881\\transformed\\jetified-play-services-basement-18.2.0\\res\\values-eu\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "138",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "5614",
+                        "endColumns": "142",
+                        "endOffsets": "5752"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rcarcamoc\\.gradle\\caches\\8.14.1\\transforms\\8c3d86cae69069d11710a44a77a6992e\\transformed\\material-1.10.0\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "/home/rick/.gradle/caches/8.14.1/transforms/e4da59d65e884a3769dccf1c09c7c808/transformed/core-1.12.0/res/values-eu/values-eu.xml",
+                    "source": "C:\\Users\\rcarcamoc\\.gradle\\caches\\8.14.1\\transforms\\a651e25b107466da52a809dbf025a641\\transformed\\core-1.12.0\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -71,23 +88,6 @@
                         "startOffsets": "3569,3667,3770,3870,3973,4078,4181,11730",
                         "endColumns": "97,102,99,102,104,102,118,100",
                         "endOffsets": "3662,3765,3865,3968,4073,4176,4295,11826"
-                    }
-                },
-                {
-                    "source": "/home/rick/.gradle/caches/8.14.1/transforms/295ec8b13b21e8a04d10b49bd01d3966/transformed/jetified-play-services-basement-18.2.0/res/values-eu/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "138",
-                        "endOffsets": "333"
-                    },
-                    "to": {
-                        "startLines": "56",
-                        "startColumns": "4",
-                        "startOffsets": "5614",
-                        "endColumns": "142",
-                        "endOffsets": "5752"
                     }
                 }
             ]
