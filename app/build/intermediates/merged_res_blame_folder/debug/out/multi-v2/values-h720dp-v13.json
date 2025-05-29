@@ -4,7 +4,7 @@
             "outputFile": "com.example.personalfinanceapp-mergeDebugResources-40:/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\rcarcamoc\\.gradle\\caches\\8.14.1\\transforms\\337fd1d1335673d04e9c0ba221cce8a0\\transformed\\appcompat-1.6.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "/home/rick/.gradle/caches/8.14.1/transforms/337fd1d1335673d04e9c0ba221cce8a0/transformed/appcompat-1.6.1/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

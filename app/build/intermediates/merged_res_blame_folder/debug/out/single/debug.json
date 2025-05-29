@@ -1,14 +1,70 @@
 [
     {
-        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.personalfinanceapp-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/rick/.gradle/daemon/8.14.1/com.example.personalfinanceapp-merged_res-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/rick/.gradle/daemon/8.14.1/com.example.personalfinanceapp-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.example.personalfinanceapp-merged_res-42:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.personalfinanceapp-main-44:/xml/data_extraction_rules.xml"
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-anydpi-v26_ic_launcher_round_round.xml.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-anydpi-v26/ic_launcher_round_round.xml"
     },
     {
-        "merged": "com.example.personalfinanceapp-merged_res-42:/xml_backup_rules.xml.flat",
-        "source": "com.example.personalfinanceapp-main-44:/xml/backup_rules.xml"
+        "merged": "/home/rick/.gradle/daemon/8.14.1/com.example.personalfinanceapp-merged_res-42:/xml_backup_rules.xml.flat",
+        "source": "/home/rick/.gradle/daemon/8.14.1/com.example.personalfinanceapp-main-44:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/drawable_ic_launcher_round_foreground.xml.flat",
+        "source": "com.example.personalfinanceapp-main-44:/drawable/ic_launcher_round_foreground.xml"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-mdpi_ic_launcher_round_round.webp.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-mdpi/ic_launcher_round_round.webp"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round_round.webp.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-xxxhdpi/ic_launcher_round_round.webp"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-xhdpi_ic_launcher_round_round.webp.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-xhdpi/ic_launcher_round_round.webp"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/drawable_ic_launcher_round_background.xml.flat",
+        "source": "com.example.personalfinanceapp-main-44:/drawable/ic_launcher_round_background.xml"
+    },
+    {
+        "merged": "/home/rick/.gradle/daemon/8.14.1/com.example.personalfinanceapp-merged_res-42:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/rick/.gradle/daemon/8.14.1/com.example.personalfinanceapp-main-44:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-hdpi_ic_launcher_round_round.webp.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-hdpi/ic_launcher_round_round.webp"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-xxhdpi_ic_launcher_round_round.webp.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-xxhdpi/ic_launcher_round_round.webp"
+    },
+    {
+        "merged": "com.example.personalfinanceapp-merged_res-42:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.personalfinanceapp-main-44:/mipmap-mdpi/ic_launcher_round.webp"
     }
 ]

@@ -14,7 +14,11 @@ color md_theme_light_primaryContainer
 color md_theme_light_secondary
 color md_theme_light_secondaryContainer
 color md_theme_light_surface
+drawable ic_launcher_round_background
+drawable ic_launcher_round_foreground
 mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap ic_launcher_round_round
 string app_name
 style Theme.PersonalFinanceApp
 xml backup_rules
