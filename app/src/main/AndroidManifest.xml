@@ -2,15 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- Permisos de Internet necesarios para APIs de Google y otras conexiones de red -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-
-    <!-- Permisos para Google Sign-In y Gmail API -->
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-
-    <!-- Permisos para Google Drive API (leer y escribir archivos) -->
-    <!-- Se solicitarán en tiempo de ejecución si es necesario para Android 6.0+ -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="28" />
 
@@ -23,7 +17,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.PersonalFinanceApp"
+        android:requestLegacyExternalStorage="true"
         tools:targetApi="31">
+        
         <activity
             android:name=".MainActivity" 
             android:exported="true"
@@ -35,11 +31,13 @@
             </intent-filter>
         </activity>
 
-        <!-- Configuración para Google Sign-In y otras APIs de Google -->
-        <!-- Reemplaza con tu ID de cliente de OAuth 2.0 si es necesario -->
-        <!-- <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" /> -->
-
+        <!-- Configuración para Google Sign-In -->
+        <meta-data
+            android:name="com.google.android.gms.auth.api.signin.GoogleSignInOptions"
+            android:value="@string/google_client_id" />
+            
+        <meta-data 
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
     </application>
-
 </manifest>
-

@@ -748,6 +748,7 @@ com.example.personalfinanceapp:string/abc_action_menu_overflow_description = 0x7
 com.example.personalfinanceapp:string/abc_action_bar_up_description = 0x7f0f0001
 com.example.personalfinanceapp:string/abc_action_bar_home_description = 0x7f0f0000
 com.example.personalfinanceapp:plurals/mtrl_badge_content_description = 0x7f0e0000
+com.example.personalfinanceapp:mipmap/ic_launcher_round = 0x7f0d0001
 com.example.personalfinanceapp:mipmap/ic_launcher = 0x7f0d0000
 com.example.personalfinanceapp:macro/m3_sys_color_light_surface_tint = 0x7f0c0176
 com.example.personalfinanceapp:macro/m3_sys_color_dark_surface_tint = 0x7f0c0175
