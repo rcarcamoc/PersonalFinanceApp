@@ -22,6 +22,9 @@ import androidx.room.PrimaryKey
             childColumns = ["categoryId"],
             onDelete = ForeignKey.CASCADE // Si se elimina una categoría, se eliminan sus presupuestos asociados
         )
+    ],
+    indices = [
+        androidx.room.Index(value = ["categoryId"])
     ]
 )
 data class BudgetEntity(

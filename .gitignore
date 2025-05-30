@@ -1,4 +1,27 @@
+## === Android & Gradle ===
 .gradle/
 build/
-app/build/
-g
+*/build/
+local.properties
+*.iml
+.idea/
+
+# === VS Code / Cursor ===
+.vscode/*
+!.vscode/extensions.json  # permite compartir solo las extensiones recomendadas
+
+# === Archivos del sistema ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+
+# === Linux (específicos de Ubuntu) ===
+*~
+
+# === Archivos generados automáticamente ===
+captures/
+output.json

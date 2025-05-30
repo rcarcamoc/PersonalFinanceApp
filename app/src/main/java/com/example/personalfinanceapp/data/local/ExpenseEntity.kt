@@ -3,6 +3,7 @@ package com.example.personalfinanceapp.data.local
 import androidx.room.Entity
 import androidx.room.ForeignKey
 import androidx.room.PrimaryKey
+import androidx.room.Index
 
 /**
  * Entidad que representa un gasto en la base de datos Room.
@@ -26,7 +27,8 @@ import androidx.room.PrimaryKey
             childColumns = ["categoryId"],
             onDelete = ForeignKey.SET_NULL // O define otra acción como NO_ACTION o RESTRICT
         )
-    ]
+    ],
+    indices = [Index("categoryId")]
 )
 data class ExpenseEntity(
     @PrimaryKey(autoGenerate = true) val id: Long = 0,

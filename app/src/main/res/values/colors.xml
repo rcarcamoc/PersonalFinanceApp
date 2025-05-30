@@ -19,4 +19,6 @@
 
     <color name="md_theme_light_error">#B3261E</color>
     <color name="md_theme_light_onError">#FFFFFF</color>
+
+    <color name="ic_launcher_background">#FFFFFF</color>
 </resources>

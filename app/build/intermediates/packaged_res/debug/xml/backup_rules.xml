@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<full-backup-content>
-    <!-- Incluye las SharedPreferences (configuraciones) -->
-    <include domain="sharedpref" path="." />
-    <!-- Incluye archivos dentro del directorio 'files' -->
-    <include domain="file" path="files/" />
-    <!-- Excluye la carpeta cache, que no es necesaria respaldar -->
-    <exclude domain="file" path="cache/" />
-</full-backup-content>
